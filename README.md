@@ -1,4 +1,4 @@
-I'm **Nizar Jailane** 👋 also known as **RAZINJ** on the internet, A software engineer and the creator of <a href="https://razinj.dev" target="_blank">**RAZINJ Dev**</a> blog.
+I'm **Nizar Jailane** 👋 also known as **RAZINJ** on the internet, A software engineer and the creator of <a href="https://razinj.dev" target="_blank">RAZINJ Dev</a> blog.
 
 🔭 I'm based in Casablanca, Morocco and focused on the web and mobile apps development.
 
