@@ -2,6 +2,6 @@ I'm **Nizar Jailane** 👋 also known as **RAZINJ** on the internet, A software 
 
 🔭 I'm based in Casablanca, Morocco and focused on the web and mobile apps development.
 
-🤔 Know more <a href="https://razinj.com" target="_blank">here</a>.
+🤔 Know more <a href="https://razinj.com/about" target="_blank">here</a>.
 
 📫 Reach out from <a href="https://razinj.com/contact" target="_blank">here</a>.
