@@ -7,5 +7,3 @@ I'm focused on the web and mobile apps development while being a Linux enthusias
 🤔 Know more <a href="https://razinj.com/about" target="_blank">here</a>.
 
 📫 Reach out from <a href="https://razinj.com/contact" target="_blank">here</a>.
-
-[![RAZINJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=razinj)](https://github.com/razinj)
